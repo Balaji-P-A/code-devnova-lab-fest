@@ -25,14 +25,14 @@ export const events = [
     description: "A fast-paced knowledge challenge covering a broad mix of topics, from culture and current affairs to science, sports, and everyday discoveries.",
     skills: ["Knowledge", "Recall", "Teamwork"],
     teamSize: "Set by organizer",
-    registrationUrl: "",
+    registrationUrl: "https://unstop.com/o/IFqP4bw",
     rounds: [
       { name: "Round 01 — Qualifier", detail: "A timed preliminary quiz to identify participants moving forward." },
       { name: "Round 02 — Challenge", detail: "A deeper set of questions testing breadth, accuracy, and speed." },
       { name: "Round 03 — Final", detail: "Finalists compete in a live or organizer-defined final format." }
     ],
     updates: [
-      { date: "Announcement pending", title: "Schedule to be announced", detail: "The final date, format, and registration deadline will be published here." }
+      { date: "20 Oct 26, 00:00 AM IST", title: "NOVAMIND 2026 – THE ULTIMATE QUIZ CHALLENGE!", detail: "17 Oct 26, 12:00 AM IST - 20 Oct 26, 12:00 PM IST, Individual, and registration deadline is published as 20 Oct 26, 00:00 AM IST." }
     ]
   },
   {
