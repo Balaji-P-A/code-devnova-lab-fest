@@ -93,15 +93,15 @@ export const events = [
     short: "Present a clear idea, defend your research, and share what you discovered.",
     description: "A platform for presenting research, explaining methodology, communicating findings, and answering questions from reviewers.",
     skills: ["Research", "Communication", "Presentation"],
-    teamSize: "Set by organizer",
-    registrationUrl: "",
+    teamSize: "Organizer by 1-4",
+    registrationUrl: "https://unstop.com/o/uO0WdeS",
     rounds: [
       { name: "Round 01 — Abstract / Submission", detail: "Submit the required title, abstract, and paper materials through the official channel." },
       { name: "Round 02 — Presentation", detail: "Present your work within the time limit announced by the organizers." },
       { name: "Round 03 — Review & Q&A", detail: "Respond to questions about your approach, evidence, and conclusions." }
     ],
     updates: [
-      { date: "Announcement pending", title: "Submission guidelines pending", detail: "Paper format, presentation duration, and submission deadline will be announced." }
+      { date: "17 Oct 26, 12:00 AM IST & 07 Nov 26, 11:59 PM IST", title: "Submission guidelines pending", detail: "Paper format : PPTX (10+ must, limit is 15/16), presentation duration 17 Oct 26, 12:00 AM IST - 07 Nov 26, 11:59 PM IST, and submission deadline will be 07 Nov 26, 11:59 PM IST." }
     ]
   },
   {
